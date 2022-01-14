@@ -1,7 +1,7 @@
 def binarySearch(A,size,key):
 
     # Set low = first position of list
-    low = 1 
+    low = 0 
 
     # Set high = last position of list
     high = size
